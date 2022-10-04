@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../Assets/logo.png'
-import { BsSearch } from 'react-icons/bs';
+// import { BsSearch } from 'react-icons/bs';
 
 export const NavBar = () => {
     return (
